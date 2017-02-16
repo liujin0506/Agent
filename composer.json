@@ -1,6 +1,6 @@
 {
     "name": "jliu/agent",
-    "description": "Agent for PHP",
+    "description": "Desktop/mobile user agent parser with support for ThinkPHP 5",
     "authors": [
         {
             "name": "Liu Jing",
