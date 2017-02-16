@@ -1,0 +1,22 @@
+{
+    "name": "jliu/agent",
+    "description": "Agent for PHP",
+    "authors": [
+        {
+            "name": "Liu Jing",
+            "email": "liujin0506@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "jliu\\agent\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
